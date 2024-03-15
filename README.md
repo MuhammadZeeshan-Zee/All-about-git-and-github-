@@ -9,3 +9,6 @@ its is:
 # Github (website)
 github allows developers to store and manage their code using git.  
 code is managed in the form of folders( repository inshort repo)  
+first of all login github then  
+create a repo
+readme.md (marked down) 

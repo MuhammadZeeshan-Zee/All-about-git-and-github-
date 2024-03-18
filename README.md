@@ -22,5 +22,14 @@ readme.md (marked down)
 - windows git bash
 - to verify that git properly work we use command git - --version
 - to check the number of list of file and folders we use command - ls
-- 
-- 
+# Configure Git     
+  After install and setup git, now its turn to configure git (changes from git to github) from which email and account name  
+  there are 2 types of confihg
+  - global  
+  - local    
+    
+  - git config --global user.name "My Name"      
+  - git config --global user.email "MyEmail.com"    
+  - git config --list    
+
+~ mean we are in our root folder  

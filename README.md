@@ -27,7 +27,7 @@ readme.md (marked down)
   there are 2 types of confihg
   - global  
   - local    
-    
+    configure command are:  
   - git config --global user.name "My Name"      
   - git config --global user.email "MyEmail.com"    
   - git config --list    
